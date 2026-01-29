@@ -71,32 +71,46 @@ This project aims to explore workforce composition, wellbeing, training effectiv
 •	Total Trips: 120
 
 •	Trip Distribution by Department: 
-o	Operations: 41 trips
-o	Marketing: 30
-o	Finance: 28
-o	IT: 21
+
+o	Marketing: 30 trips
+
+o	Finance: 28 trips
+
+o	IT: 28 trips
+
+o	Operations: 21 trips
+
 
 •	Average Trip Duration: 8 days across most departments; IT averages 5 days, possibly more efficient travel planning.
 
 •	Trip Purpose Duration: 
+
 o	Internal, Conference, Training: 8 days
-o	Client Visit: 5 days-shorter, focused engagements.
+
+o	Client Visit: 5 days-shorter.
 
 •	Top Destinations: 
+
 o	Accra: 24 trips (Conference: 8, Training: 7)
-o	Lagos and Johannesburg: 7 trips each
+
+o	Lagos and Johannesburg: 21 trips each
 
 •	Training Programs: 4 per department, limited scope for skill development.
 
 •	Average Training Score: 74.0, moderate effectiveness.
 
 •	Top Training Hours: 
-o	E0089 leads with 110 hours; others cluster around 82 hours.
+
+o	E0089 leads with 105 hours
+
+o	E0175 (second) with 92 
+
+o	Others cluster around 78 hours.
 
 •	Training vs Performance: 
 o	All performance ratings (Excellent, Good, Average, Satisfactory) show identical average training hours (21.48), suggests lack of performance-based training customization.
 
-### Strategic Recommendations
+## Strategic Recommendations
 
 #### 1. Wellness and Stress Management
 
