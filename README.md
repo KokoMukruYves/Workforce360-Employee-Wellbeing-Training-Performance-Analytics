@@ -1,5 +1,7 @@
 # Workforce360-Employee-Wellbeing-Training-Performance-Analytics
- 
+
+## Introduction
+
 ### Purpose
 The purpose of this project is to provide a comprehensive analysis of an organization's workforce by integrating multiple datasets covering employee demographics, wellbeing, training, performance, and travel activities. This holistic approach aims to uncover insights that inform strategic human resource planning, wellness initiatives, training optimization, and operational efficiency.
 ### Objectives
@@ -28,6 +30,7 @@ This project aims to explore workforce composition, wellbeing, training effectiv
 
 
 ## Dashboard Overview
+
 ### Demographic and Wellness Dashoard overview
 
 <img width="869" height="485" alt="Image" src="https://github.com/user-attachments/assets/cd164ea2-08aa-4546-baeb-cbd1942bccb9" />
@@ -88,6 +91,7 @@ o	E0089 leads with 110 hours; others cluster around 82 hours.
 o	All performance ratings (Excellent, Good, Average, Satisfactory) show identical average training hours (21.48) — suggests lack of performance-based training customization.
 
 ### Strategic Recommendations
+
 #### 1. Wellness and Stress Management
 
 •	Launch targeted wellness programs focusing on nutrition, fitness, and stress reduction.
