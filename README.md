@@ -42,7 +42,7 @@ This project aims to explore workforce composition, wellbeing, training effectiv
     o	Who are the top participants in terms of training hours?  
 
 
-    o	What is the relationship between training hours and performance ratings, and how does this influence promotion recommendations over time?  
+    o	What is the impact of training hours on performance ratings and promotion trends?  
 
 
     o	Which destinations and purposes dominate business travel, what is the average trip duration by department ?
@@ -51,7 +51,7 @@ This project aims to explore workforce composition, wellbeing, training effectiv
     o	How does travel relate to employee performance?  
 
 
-    o	Based on the insights w what actionable strategies can improve workforce health, development, and organizational efficiency?  
+    o	What strategies can enhance workforce health, development, and efficiency based on insights? 
 
 
 ## Dashboard Overview
