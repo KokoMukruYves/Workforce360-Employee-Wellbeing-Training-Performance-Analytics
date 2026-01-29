@@ -1,6 +1,17 @@
 # Workforce360-Employee-Wellbeing-Training-Performance-Analytics
  His is an comprehensive HR analytics project designed to explore workforce composition, employee wellbeing, training outcomes, performance ratings, and organizational mobility. 
-# Comprehensive Insight Summary: Employee Profile, Well-Being, Training, and Travel Dashboards
+### Purpose
+The purpose of this project is to provide a comprehensive analysis of an organization's workforce by integrating multiple datasets covering employee demographics, wellbeing, training, performance, and travel activities. This holistic approach aims to uncover insights that inform strategic human resource planning, wellness initiatives, training optimization, and operational efficiency.
+### Objectives
+
+•	To understand the composition and diversity of the workforce across departments.
+•	To assess employee wellbeing through health metrics such as BMI, stress levels, and sick leave.
+•	To evaluate training participation, effectiveness, and its relationship with performance.
+•	To analyze employee travel patterns and their impact on organizational outcomes.
+•	To identify individual and departmental outliers for targeted interventions.
+
+# Guiding questions
+
 
 ## 1. Demographic and Wellness Overview
 
