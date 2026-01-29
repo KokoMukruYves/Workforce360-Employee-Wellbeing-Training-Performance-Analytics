@@ -58,7 +58,7 @@ This project aims to explore workforce composition, wellbeing, training effectiv
      26.78,slightly above healthy range; signals opportunity for wellness interventions.
 
 •	Average Sick Leave:
-     4.19 days — moderate, but Finance department averages ≈5.2 days, suggesting stress or workload imbalance.
+     4.19 days (moderate), but Finance department averages ≈5.2 days, suggesting stress or workload imbalance.
      
 •	Stress Levels: High (≈60), Moderate (≈70), Low (≈70), one-third of employees report high stress, posing burnout risks.
 
