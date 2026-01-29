@@ -101,7 +101,11 @@ This project aims to explore workforce composition, wellbeing, training effectiv
     o	Operations: 21 trips
 
 
-•	Average Trip Duration: 8 days across most departments; IT averages 5 days, possibly more efficient travel planning.
+•	Average Trip Duration: 
+
+    o	8 days across most departments; 
+    
+    o	IT averages 5 days, possibly more efficient travel planning.
 
 •	Trip Purpose Duration: 
 
@@ -115,9 +119,13 @@ This project aims to explore workforce composition, wellbeing, training effectiv
 
     o	Lagos and Johannesburg: 21 trips each
 
-•	Training Programs: 4 per department, limited scope for skill development.
+•	Training Programs:
 
-•	Average Training Score: 74.0, moderate effectiveness.
+    o	4 per department, limited scope for skill development.
+
+•	Average Training Score: 
+
+    o	74.0, moderate effectiveness.
 
 •	Top Training Hours: 
 
