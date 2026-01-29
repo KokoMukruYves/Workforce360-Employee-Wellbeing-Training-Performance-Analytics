@@ -1,5 +1,5 @@
 # Workforce360-Employee-Wellbeing-Training-Performance-Analytics
- His is an comprehensive HR analytics project designed to explore workforce composition, employee wellbeing, training outcomes, performance ratings, and organizational mobility. 
+ 
 ### Purpose
 The purpose of this project is to provide a comprehensive analysis of an organization's workforce by integrating multiple datasets covering employee demographics, wellbeing, training, performance, and travel activities. This holistic approach aims to uncover insights that inform strategic human resource planning, wellness initiatives, training optimization, and operational efficiency.
 ### Objectives
@@ -11,6 +11,18 @@ The purpose of this project is to provide a comprehensive analysis of an organiz
 •	To identify individual and departmental outliers for targeted interventions.
 
 # Guiding questions
+
+   - How is the workforce distributed across departments, gender, age groups, and education levels?  
+
+   - What are the average BMI, stress levels, and sick leave trends by department, and which departments or individuals stand out as outliers?  
+
+   - How many training programs are attended per department, what are the average scores, and who are the top participants in terms of training hours?  
+
+   - What is the relationship between training hours and performance ratings, and how does this influence promotion recommendations over time?  
+
+   - Which destinations and purposes dominate business travel, what is the average trip duration by department, and how does travel relate to employee performance?  
+
+   - Based on wellbeing, training, performance, and travel trends, what actionable strategies can improve workforce health, development, and organizational efficiency?  
 
 
 ## 1. Demographic and Wellness Overview
