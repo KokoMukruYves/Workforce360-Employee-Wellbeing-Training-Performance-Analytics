@@ -5,11 +5,17 @@
 ### Purpose
 The purpose of this project is to provide a comprehensive analysis of an organization's workforce by integrating multiple datasets covering employee demographics, wellbeing, training, performance, and travel activities. This holistic approach aims to uncover insights that inform strategic human resource planning, wellness initiatives, training optimization, and operational efficiency.
 ### Objectives
+
 To achieve the goals of this project, the following key objectives have been defined and are presented below:
+
 •	To understand the composition and diversity of the workforce across departments.
+
 •	To assess employee wellbeing through health metrics such as BMI, stress levels, and sick leave.
+
 •	To evaluate training participation, effectiveness, and its relationship with performance.
+
 •	To analyze employee travel patterns and their impact on organizational outcomes.
+
 •	To identify individual and departmental outliers for targeted interventions.
 
 ### Guiding questions
@@ -43,7 +49,7 @@ This project aims to explore workforce composition, wellbeing, training effectiv
    Male (38%), Female (32%), Other (30), reflects a diverse and inclusive workforce.
 
 •	Education Levels: 
-   Even spread across High School, Bachelor's, Master's, and PhD — supports varied learning styles and career pathways.
+   Even spread across High School, Bachelor's, Master's, and PhD, supports varied learning styles and career pathways.
 
 •	Average Age: 
      40 years, indicates a mature workforce with potential for mentorship and leadership development.
@@ -95,19 +101,25 @@ o	All performance ratings (Excellent, Good, Average, Satisfactory) show identica
 #### 1. Wellness and Stress Management
 
 •	Launch targeted wellness programs focusing on nutrition, fitness, and stress reduction.
+
 •	Prioritize high-BMI and high-sick-leave individuals for personalized health coaching.
+
 •	Introduce stress audits and workload reviews, especially in Finance.
 
 #### 2. Training Optimization
 
 •	Expand training offerings beyond the current 4 programs per department.
+
 •	Align training hours with performance ratings to boost effectiveness.
+
 •	Recognize and leverage top trainees (e.g., E0089) as peer mentors or internal facilitators.
 
 #### 3. Travel Efficiency and ROI
 
 •	Benchmark IT’s shorter trip durations to optimize travel planning across departments.
-•	Reassess necessity and duration of Internal and Training trips — explore hybrid or remote alternatives.
+
+•	Reassess necessity and duration of Internal and Training trips, explore hybrid or remote alternatives.
+
 •	Conduct cost-benefit analysis of frequent destinations like Accra to ensure strategic value.
 
 #### D. Demographic-Driven Planning
