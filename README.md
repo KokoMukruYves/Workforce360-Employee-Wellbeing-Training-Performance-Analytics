@@ -40,7 +40,7 @@ This project aims to explore workforce composition, wellbeing, training effectiv
 •	Total Employees: 200
 
 •	Gender Distribution :
-   Male (38%), Female (32%), Other (30) — reflects a diverse and inclusive workforce.
+   Male (38%), Female (32%), Other (30), reflects a diverse and inclusive workforce.
 
 •	Education Levels: 
    Even spread across High School, Bachelor's, Master's, and PhD — supports varied learning styles and career pathways.
@@ -54,7 +54,7 @@ This project aims to explore workforce composition, wellbeing, training effectiv
 •	Average Sick Leave:
      4.19 days — moderate, but Finance department averages ≈5.2 days, suggesting stress or workload imbalance.
      
-•	Stress Levels: High (≈60), Moderate (≈70), Low (≈70) — one-third of employees report high stress, posing burnout risks.
+•	Stress Levels: High (≈60), Moderate (≈70), Low (≈70), one-third of employees report high stress, posing burnout risks.
 
 ### Travel and Training Insights Dashboard Overview
 
@@ -70,25 +70,25 @@ o	Marketing: 30
 o	Finance: 28
 o	IT: 21
 
-•	Average Trip Duration: 8 days across most departments; IT averages 5 days — possibly more efficient travel planning.
+•	Average Trip Duration: 8 days across most departments; IT averages 5 days, possibly more efficient travel planning.
 
 •	Trip Purpose Duration: 
 o	Internal, Conference, Training: 8 days
-o	Client Visit: 5 days — shorter, focused engagements.
+o	Client Visit: 5 days-shorter, focused engagements.
 
 •	Top Destinations: 
 o	Accra: 24 trips (Conference: 8, Training: 7)
 o	Lagos and Johannesburg: 7 trips each
 
-•	Training Programs: 4 per department — limited scope for skill development.
+•	Training Programs: 4 per department, limited scope for skill development.
 
-•	Average Training Score: 74.0 — moderate effectiveness.
+•	Average Training Score: 74.0, moderate effectiveness.
 
 •	Top Training Hours: 
 o	E0089 leads with 110 hours; others cluster around 82 hours.
 
 •	Training vs Performance: 
-o	All performance ratings (Excellent, Good, Average, Satisfactory) show identical average training hours (21.48) — suggests lack of performance-based training customization.
+o	All performance ratings (Excellent, Good, Average, Satisfactory) show identical average training hours (21.48), suggests lack of performance-based training customization.
 
 ### Strategic Recommendations
 
