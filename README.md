@@ -3,36 +3,49 @@
 ## Introduction
 
 ### Purpose
+
 The purpose of this project is to provide a comprehensive analysis of an organization's workforce by integrating multiple datasets covering employee demographics, wellbeing, training, performance, and travel activities. This holistic approach aims to uncover insights that inform strategic human resource planning, wellness initiatives, training optimization, and operational efficiency.
+
 ### Objectives
 
 To achieve the goals of this project, the following key objectives have been defined and are presented below:
 
-•	To understand the composition and diversity of the workforce across departments.
 
-•	To assess employee wellbeing through health metrics such as BMI, stress levels, and sick leave.
+    o	To understand the composition and diversity of the workforce across departments.
 
-•	To evaluate training participation, effectiveness, and its relationship with performance.
 
-•	To analyze employee travel patterns and their impact on organizational outcomes.
+    o	To assess employee wellbeing through health metrics such as BMI, stress levels, and sick leave.
 
-•	To identify individual and departmental outliers for targeted interventions.
+
+    o	To evaluate training participation, effectiveness, and its relationship with performance.
+
+
+    o	To analyze employee travel patterns and their impact on organizational outcomes.
+
+
+    o	To identify individual and departmental outliers for targeted interventions.
 
 ### Guiding questions
 
 This project aims to explore workforce composition, wellbeing, training effectiveness, performance outcomes, and travel patterns by addressing the following guiding questions: 
 
-- How is the workforce distributed across departments, gender, age groups, and education levels?  
 
-- What are the average BMI, stress levels, and sick leave trends by department, and which departments or individuals stand out as outliers?  
+    o	How is the workforce distributed across departments, gender, age groups, and education levels?  
 
-- How many training programs are attended per department, what are the average scores, and who are the top participants in terms of training hours?  
 
-- What is the relationship between training hours and performance ratings, and how does this influence promotion recommendations over time?  
+    o	What are the average BMI, stress levels, and sick leave trends by department, and which departments or individuals stand out as outliers?  
 
-- Which destinations and purposes dominate business travel, what is the average trip duration by department, and how does travel relate to employee performance?  
 
-- Based on wellbeing, training, performance, and travel trends, what actionable strategies can improve workforce health, development, and organizational efficiency?  
+    o	How many training programs are attended per department, what are the average scores, and who are the top participants in terms of training hours?  
+
+
+    o	What is the relationship between training hours and performance ratings, and how does this influence promotion recommendations over time?  
+
+
+    o	Which destinations and purposes dominate business travel, what is the average trip duration by department, and how does travel relate to employee performance?  
+
+
+    o	Based on wellbeing, training, performance, and travel trends, what actionable strategies can improve workforce health, development, and organizational efficiency?  
 
 
 ## Dashboard Overview
