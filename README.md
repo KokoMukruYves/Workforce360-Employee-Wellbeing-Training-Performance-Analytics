@@ -11,6 +11,7 @@ To achieve the goals of this project, the following key objectives have been def
 •	To identify individual and departmental outliers for targeted interventions.
 
 ### Guiding questions
+
 This project aims to explore workforce composition, wellbeing, training effectiveness, performance outcomes, and travel patterns by addressing the following guiding questions: 
 
 - How is the workforce distributed across departments, gender, age groups, and education levels?  
@@ -26,11 +27,12 @@ This project aims to explore workforce composition, wellbeing, training effectiv
 - Based on wellbeing, training, performance, and travel trends, what actionable strategies can improve workforce health, development, and organizational efficiency?  
 
 
-## 1. Demographic and Wellness Dashoard overview
+## Dashboard Overview
+### Demographic and Wellness Dashoard overview
 
 <img width="869" height="485" alt="Image" src="https://github.com/user-attachments/assets/cd164ea2-08aa-4546-baeb-cbd1942bccb9" />
 
-#### Keys insights from the dashboard
+##### Keys insights from the dashboard
 
 •	Total Employees: 200
 
@@ -51,11 +53,11 @@ This project aims to explore workforce composition, wellbeing, training effectiv
      
 •	Stress Levels: High (≈60), Moderate (≈70), Low (≈70) — one-third of employees report high stress, posing burnout risks.
 
-## 2. Travel and Training Insights Dashboard Overview
+### Travel and Training Insights Dashboard Overview
 
 <img width="868" height="488" alt="Image" src="https://github.com/user-attachments/assets/07b97030-1b9b-4f4b-bccb-74aa1d332891" />
 
-### Key Insights
+#### Key Insights
 
 •	Total Trips: 120
 
@@ -85,26 +87,26 @@ o	E0089 leads with 110 hours; others cluster around 82 hours.
 •	Training vs Performance: 
 o	All performance ratings (Excellent, Good, Average, Satisfactory) show identical average training hours (21.48) — suggests lack of performance-based training customization.
 
-## Strategic Recommendations
-### A. Wellness and Stress Management
+### Strategic Recommendations
+#### 1. Wellness and Stress Management
 
 •	Launch targeted wellness programs focusing on nutrition, fitness, and stress reduction.
 •	Prioritize high-BMI and high-sick-leave individuals for personalized health coaching.
 •	Introduce stress audits and workload reviews, especially in Finance.
 
-### B. Training Optimization
+#### 2. Training Optimization
 
 •	Expand training offerings beyond the current 4 programs per department.
 •	Align training hours with performance ratings to boost effectiveness.
 •	Recognize and leverage top trainees (e.g., E0089) as peer mentors or internal facilitators.
 
-### C. Travel Efficiency and ROI
+#### 3. Travel Efficiency and ROI
 
 •	Benchmark IT’s shorter trip durations to optimize travel planning across departments.
 •	Reassess necessity and duration of Internal and Training trips — explore hybrid or remote alternatives.
 •	Conduct cost-benefit analysis of frequent destinations like Accra to ensure strategic value.
 
-### D. Demographic-Driven Planning
+#### D. Demographic-Driven Planning
 
 •	Use age and education data to inform succession planning, mentorship programs, and career development tracks.
 •	Promote inclusive policies that support all gender identities and educational backgrounds.
