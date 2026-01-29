@@ -43,24 +43,25 @@ This project aims to explore workforce composition, wellbeing, training effectiv
 
 ##### Keys insights from the dashboard
 
-•	Total Employees: 200
 
-•	Gender Distribution :
-   Male (38%), Female (32%), Other (30), reflects a diverse and inclusive workforce.
+    o	Total Employees: 200
 
-•	Education Levels: 
-   Even spread across High School, Bachelor's, Master's, and PhD, supports varied learning styles and career pathways.
+    o	Gender Distribution :
+        Male (38%), Female (32%), Other (30), reflects a diverse and inclusive workforce.
 
-•	Average Age: 
-     40 years, indicates a mature workforce with potential for mentorship and leadership development.
+    o	Education Levels: 
+        Even spread across High School, Bachelor's, Master's, and PhD, supports varied learning styles and career pathways.
 
-•	Average BMI:
-     26.78,slightly above healthy range; signals opportunity for wellness interventions.
+    o	Average Age: 
+        40 years, indicates a mature workforce with potential for mentorship and leadership development.
 
-•	Average Sick Leave:
-     4.19 days (moderate), but Finance department averages ≈5.2 days, suggesting stress or workload imbalance.
+    o	Average BMI:
+        26.78,slightly above healthy range; signals opportunity for wellness interventions.
+
+    o	 Average Sick Leave:
+        4.19 days (moderate), but Finance department averages ≈5.2 days, suggesting stress or workload imbalance.
      
-•	Stress Levels: High (≈60), Moderate (≈70), Low (≈70), one-third of employees report high stress, posing burnout risks.
+    o	 Stress Levels: High (≈60), Moderate (≈70), Low (≈70), one-third of employees report high stress, posing burnout risks.
 
 ### Travel and Training Insights Dashboard Overview
 
@@ -68,7 +69,7 @@ This project aims to explore workforce composition, wellbeing, training effectiv
 
 #### Key Insights
 
-•	Total Trips: 120
+    o	 Total Trips: 120
 
 •	Trip Distribution by Department: 
 
@@ -87,7 +88,7 @@ This project aims to explore workforce composition, wellbeing, training effectiv
 
     o	Internal, Conference, Training: 8 days
 
-    o Client Visit: 5 days-shorter.
+    o  Client Visit: 5 days-shorter.
 
 •	Top Destinations: 
 
@@ -105,7 +106,7 @@ This project aims to explore workforce composition, wellbeing, training effectiv
 
     o	E0175 (second) with 92 
 
-    o	Others cluster around 78 hours.
+    o	 Others cluster around 78 hours.
 
 •	Training vs Performance: 
 
@@ -115,29 +116,39 @@ This project aims to explore workforce composition, wellbeing, training effectiv
 
 #### 1. Wellness and Stress Management
 
-•	Launch targeted wellness programs focusing on nutrition, fitness, and stress reduction.
 
-•	Prioritize high-BMI and high-sick-leave individuals for personalized health coaching.
+    o	 Launch targeted wellness programs focusing on nutrition, fitness, and stress reduction.
 
-•	Introduce stress audits and workload reviews, especially in Finance.
+
+    o	 Prioritize high-BMI and high-sick-leave individuals for personalized health coaching.
+
+
+    o	 Introduce stress audits and workload reviews, especially in Finance.
 
 #### 2. Training Optimization
 
-•	Expand training offerings beyond the current 4 programs per department.
 
-•	Align training hours with performance ratings to boost effectiveness.
+    o	Expand training offerings beyond the current 4 programs per department.
 
-•	Recognize and leverage top trainees (e.g., E0089) as peer mentors or internal facilitators.
+
+    o	Align training hours with performance ratings to boost effectiveness.
+
+
+    o	Recognize and leverage top trainees (e.g., E0089) as peer mentors or internal facilitators.
 
 #### 3. Travel Efficiency and ROI
 
-•	Benchmark IT’s shorter trip durations to optimize travel planning across departments.
 
-•	Reassess necessity and duration of Internal and Training trips, explore hybrid or remote alternatives.
+    o	Benchmark IT’s shorter trip durations to optimize travel planning across departments.
 
-•	Conduct cost-benefit analysis of frequent destinations like Accra to ensure strategic value.
+
+    o	Reassess necessity and duration of Internal and Training trips, explore hybrid or remote alternatives.
+
+
+    o	Conduct cost-benefit analysis of frequent destinations like Accra to ensure strategic value.
 
 #### D. Demographic-Driven Planning
 
-•	Use age and education data to inform succession planning, mentorship programs, and career development tracks.
-•	Promote inclusive policies that support all gender identities and educational backgrounds.
+    o	 Use age and education data to inform succession planning, mentorship programs, and career development tracks.
+
+    o	Promote inclusive policies that support all gender identities and educational backgrounds.
