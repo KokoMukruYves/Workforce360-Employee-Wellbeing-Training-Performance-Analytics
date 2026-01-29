@@ -33,19 +33,25 @@ This project aims to explore workforce composition, wellbeing, training effectiv
     o	How is the workforce distributed across departments, gender, age groups, and education levels?  
 
 
-    o	What are the average BMI, stress levels, and sick leave trends by department, and which departments or individuals stand out as outliers?  
+    o	What are the average BMI, stress levels, and sick leave trends by department, and which departments ?  
 
 
-    o	How many training programs are attended per department, what are the average scores, and who are the top participants in terms of training hours?  
+    o	How many training programs are attended per department, what are the average scores ?
+    
+    
+    o	Who are the top participants in terms of training hours?  
 
 
     o	What is the relationship between training hours and performance ratings, and how does this influence promotion recommendations over time?  
 
 
-    o	Which destinations and purposes dominate business travel, what is the average trip duration by department, and how does travel relate to employee performance?  
+    o	Which destinations and purposes dominate business travel, what is the average trip duration by department ?
+    
+    
+    o	How does travel relate to employee performance?  
 
 
-    o	Based on wellbeing, training, performance, and travel trends, what actionable strategies can improve workforce health, development, and organizational efficiency?  
+    o	Based on the insights w what actionable strategies can improve workforce health, development, and organizational efficiency?  
 
 
 ## Dashboard Overview
