@@ -179,3 +179,12 @@ This project aims to explore workforce composition, wellbeing, training effectiv
     o	 Use age and education data to inform succession planning, mentorship programs, and career development tracks.
 
     o	Promote inclusive policies that support all gender identities and educational backgrounds.
+
+
+## 📬 Contact
+
+**© 2026 Koko Mukuru Yves**. All rights reserved.
+
+Email: kmukuru_yves@st.ug.edu.gh 
+
+LinkedIn: https://www.linkedin.com/in/koko-mukuru-yves-98621a14a
