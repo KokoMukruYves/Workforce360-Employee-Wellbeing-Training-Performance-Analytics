@@ -181,12 +181,16 @@ This project aims to explore workforce composition, wellbeing, training effectiv
     o	Promote inclusive policies that support all gender identities and educational backgrounds.
 
 
-## 📬 Contact
-
-**© 2026 Koko Mukuru Yves**. All rights reserved.
+## 🔗 Connect with me
 
 For questions or collaborations, feel free to reach out!
 
-Email: kmukuru_yves@st.ug.edu.gh 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koko-mukuru-yves-98621a14a) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kokomukuruy@gmail.com)
 
-LinkedIn: https://www.linkedin.com/in/koko-mukuru-yves-98621a14a
+---
+<p align="center">
+  <i>"Turning data into actionable intelligence, one project at a time."</i>
+</p>
+
+**© 2026 Koko Mukuru Yves**. All rights reserved
