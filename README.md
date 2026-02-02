@@ -181,6 +181,11 @@ This project aims to explore workforce composition, wellbeing, training effectiv
     o	Promote inclusive policies that support all gender identities and educational backgrounds.
 
 
+---
+
+[![Power BI Dashboard](https://img.shields.io/badge/Click_here_to_access_the_interactive_dashboard-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiMzEwYzVmMzktM2Q4OC00NTJiLWIzNzAtYmQyZjY4MDI0NWVmIiwidCI6Ijk0MWJiZjVmLWYyYzAtNDg3NS1hMjRjLTY5MDc4NjVkMjUxYSIsImMiOjh9)
+
+
 ## 🔗 Connect with me
 
 For questions or collaborations, feel free to reach out!
